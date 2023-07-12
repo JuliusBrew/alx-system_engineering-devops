@@ -1,2 +1,2 @@
 #!/bin/bash
-compgen -v env declare -F
+compgen -v & env & declare -F
